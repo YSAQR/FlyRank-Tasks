@@ -1,2 +1,7 @@
-tasks.db
+.env
+*.db
+__pycache__/
+.venv/
+.vscode/
 chatBot/.env
+Ai Smart ChatBot/

@@ -5,3 +5,9 @@ __pycache__/
 .vscode/
 chatBot/.env
 Ai Smart ChatBot/
+
+# polite-book-scraper ignores
+polite-book-scraper/.venv/
+polite-book-scraper/output/*.json
+polite-book-scraper/.git_backup/
+polite-book-scraper/.pytest_cache/
